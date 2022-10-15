@@ -1,3 +1,4 @@
+
 # This file tracks properties of this Flutter project.
 # Used by Flutter tool to assess capabilities and perform upgrades etc.
 #
@@ -43,3 +44,4 @@ migration:
   unmanaged_files:
     - 'lib/main.dart'
     - 'ios/Runner.xcodeproj/project.pbxproj'
+
