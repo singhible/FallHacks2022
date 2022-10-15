@@ -24,7 +24,7 @@ class TopNav extends StatelessWidget {
             //   ),
             // ),
           ],
-          backgroundColor: Color.fromARGB(255, 117, 154, 15),
+          backgroundColor: Colors.blueGrey,
         ),
       );
 }

@@ -81,12 +81,10 @@ fonts:
     fonts:
       - asset: assets/fonts/FiraSans/FiraSans-Regular.ttf
       - asset: assets/fonts/FiraSans/FiraSans-ThinItalic.ttf
-        style: italic
 
   - family: ComforterBrush
     fonts:
       - asset: assets/fonts/ComforterBrush-Regular.ttf
-        weight: 700
 
   #   - family: Schyler
   #     fonts:

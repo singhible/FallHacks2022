@@ -11,6 +11,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      darkTheme: ThemeData(
+        fontFamily: 'FiraSans',
+        brightness: Brightness.dark,
+      ),
       home: Scaffold(
         backgroundColor: Colors.white,
         body: Stack(
