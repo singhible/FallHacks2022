@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 import '../widgets/auth_service.dart';
 
@@ -33,12 +34,13 @@ class _LoginState extends State<Login> {
                 style: TextStyle(
                     fontSize: 30
                 )),
-            GestureDetector(
-                onTap: () {
+            IconButton(
+                onPressed: () {
                   AuthService().signInWithGoogle();
                 },
-                child: const Image(width: 100, image: AssetImage('assets/google.png'))),
-          ],
+                icon: const FaIcon(FontAwesomeIcons.google),
+			),
+		  ],
         ),
       ),
     );
