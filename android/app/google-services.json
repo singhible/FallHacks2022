@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401837002534",
+    "project_id": "flake-e5f90",
+    "storage_bucket": "flake-e5f90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401837002534:android:98493596bb9e04cfacbbe7",
+        "android_client_info": {
+          "package_name": "com.d1.fallhacks2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401837002534-nrbgccbs5l2to0ulil40lc92irqcgca4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJjm9LD9oytGcGNmFH4Tal1yVaGconFw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401837002534-nrbgccbs5l2to0ulil40lc92irqcgca4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
