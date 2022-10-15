@@ -16,11 +16,6 @@ class _LoginState extends State<Login> {
     final Size size = MediaQuery.of(context).size;
 
     return Scaffold(
-      backgroundColor: Colors.white,
-      appBar: AppBar(
-        title: const Text("Google Login"),
-        backgroundColor: Colors.green,
-      ),
       body: Container(
         width: size.width,
         height: size.height,
@@ -30,7 +25,8 @@ class _LoginState extends State<Login> {
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
-            const Text("Hello, \nGoogle sign in",
+            const FaIcon(FontAwesomeIcons.snowflake),
+            const Text("Flake",
                 style: TextStyle(
                     fontSize: 30
                 )),
