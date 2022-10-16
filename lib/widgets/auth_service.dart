@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 
-import '../pages/dummy.dart';
+import '../pages/home.dart';
 import '../pages/login.dart';
 
 class AuthService{
@@ -12,7 +12,7 @@ class AuthService{
         stream: FirebaseAuth.instance.authStateChanges(),
         builder: (BuildContext context, snapshot) {
           if (snapshot.hasData) {
-            return Dummy();
+            return const HomePage();
           }
           else {
             return const Login();
