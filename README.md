@@ -19,12 +19,12 @@ Where theoretically, all last minute events expire within 24 hours
 
 # Directions for using the Program 
 
-1. Click on the google logo that appears on the start-up screen.
+1. Click on the google logo that appears on the start-up screen. \n
 2. Log in using your own google account, if you don't have a google account sign up for an account to load the application.
 3. Once logged in, a stack of group events will appear. 
 
-Users joining groups:
-4. Users may swipe left or right on the events to display another option or join, respectively. 
+Users joining groups: \n
+4. Users may swipe left or right on the events to display another option or join, respectively. \n
 5. Once the user has joined a group event, the event will appear in their inbox with the "pending status"
 6. The group host gets the chance to either accept or decline the join request.
 7. If the group host accepts the request, the individual is added to a group where they can coordinate their plans further.
