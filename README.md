@@ -23,7 +23,7 @@ Where theoretically, all last minute events expire within 24 hours <br />
 2. Log in using your own google account, if you don't have a google account sign up for an account to load the application. <br />
 3. Once logged in, a stack of group events will appear. <br />
 
-Users joining groups: \n
+Users joining groups: <br />
 4. Users may swipe left or right on the events to display another option or join, respectively. <br />
 5. Once the user has joined a group event, the event will appear in their inbox with the "pending status" <br />
 6. The group host gets the chance to either accept or decline the join request. <br />
