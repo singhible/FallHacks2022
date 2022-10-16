@@ -10,7 +10,7 @@ This application is named "Flake", with the main task to bring people together f
 
 Where theoretically, all last minute events expire within 24 hours <br />
 
-# Usauge <br />
+# Usage <br />
 1. Aquire an IDE with android and flutter functionality (ex. Android Studio, Visual Studio Code, Xcode etc.) <br />
 2. Download the folder from the Git repository via "Git clone repository" <br />
 3. Load the code within the IDE, onto your cellular device or an emulator <br />
